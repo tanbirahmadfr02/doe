@@ -1,0 +1,599 @@
+@media (min-width: 1400px) {
+
+    /* ========menu part start ======== */
+    #main_menu .toggler_icon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 20px;
+        color: white;
+    }
+
+    #main_menu ul li a {
+        padding: 15px 17px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    /* ========menu part end ======== */
+
+    /* ======banner part start ====== */
+    #banner_part {
+        padding: 270px 0;
+    }
+
+    #banner_part {
+        margin-bottom: 0;
+    }
+
+    #banner_part .main h2 {
+        font-size: 43px;
+        margin-bottom: 8px;
+    }
+
+    /* ======banner part end ====== */
+
+    /* =======about part start ====== */
+    #about_part {
+        padding: 89px 0 125px;
+    }
+
+    #about_part .about_top h2 {
+        font-size: 33px;
+        margin-bottom: 32px;
+    }
+
+    #about_part .social-link {
+        margin-bottom: 60px;
+    }
+
+    /* =======about part end ====== */
+
+    /* ======service part start ======= */
+    #service_part {
+        padding-bottom: 100px;
+    }
+
+    /* ======service part end ======= */
+
+    /* ======portfolio part start ===== */
+    #pfolio_part {
+        padding-bottom: 40px;
+    }
+
+    #pfolio_part .pfolio_top h2 {
+        font-size: 33px;
+        line-height: 32px;
+    }
+
+    #pfolio_part ul li button {
+        margin: 8px 25px;
+    }
+
+    /* ======portfolio part end ===== */
+
+    /* =====footer part start ==== */
+    #footer_part {
+        padding: 65px 0;
+    }
+
+    #footer_part .footer_left {
+        margin-bottom: 50px;
+    }
+
+    /* =====footer part end ==== */
+    /* =========ending part start ======= */
+    #ending_part .back_to_top a {
+        top: -27px;
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+
+    /* =========ending part end ======= */
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    /* ========menu part start ======== */
+    #main_menu .toggler_icon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 20px;
+        color: white;
+    }
+
+    #main_menu ul li a {
+        padding: 15px 17px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    /* ========menu part end ======== */
+
+    /* ======banner part start ====== */
+    #banner_part {
+        margin-bottom: 0;
+    }
+
+    #banner_part .main h2 {
+        font-size: 43px;
+        margin-bottom: 8px;
+    }
+
+    /* ======banner part end ====== */
+
+    /* =======about part start ====== */
+    #about_part {
+        padding: 89px 0 100px;
+    }
+
+    #about_part .about_top h2 {
+        font-size: 33px;
+        margin-bottom: 32px;
+    }
+
+    #about_part .social-link {
+        margin-bottom: 60px;
+    }
+
+    /* =======about part end ====== */
+
+    /* ======service part start ======= */
+    #service_part {
+        padding-bottom: 100px;
+    }
+
+    /* ======service part end ======= */
+
+    /* ======portfolio part start ===== */
+    #pfolio_part {
+        padding-bottom: 40px;
+    }
+
+    #pfolio_part .pfolio_top h2 {
+        font-size: 33px;
+        line-height: 32px;
+    }
+
+    #pfolio_part ul li button {
+        margin: 8px 25px;
+    }
+
+    /* ======portfolio part end ===== */
+
+    /* =====footer part start ==== */
+    #footer_part {
+        padding: 65px 0;
+    }
+
+    #footer_part .footer_left {
+        margin-bottom: 50px;
+    }
+
+    /* =====footer part end ==== */
+    /* =========ending part start ======= */
+    #ending_part .back_to_top a {
+        top: -27px;
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+
+    /* =========ending part end ======= */
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* ========menu part start ======== */
+    #main_menu .toggler_icon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 20px;
+        color: white;
+    }
+
+    #main_menu ul li a {
+        padding: 15px 17px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    /* ========menu part end ======== */
+
+    /* ======banner part start ====== */
+    #banner_part {
+        margin-bottom: 0;
+    }
+
+    #banner_part .main h2 {
+        font-size: 36px;
+        margin-bottom: 5px;
+    }
+
+    /* ======banner part end ====== */
+
+    /* =======about part start ====== */
+    #about_part {
+        padding: 89px 0 50px;
+    }
+
+    #about_part .about_top h2 {
+        font-size: 31px;
+        margin-bottom: 30px;
+    }
+
+    #about_part .social-link {
+        margin-bottom: 60px;
+    }
+
+    /* =======about part end ====== */
+
+    /* ======service part start ======= */
+    #service_part {
+        padding-bottom: 100px;
+    }
+
+    /* ======service part end ======= */
+
+    /* ======portfolio part start ===== */
+    #pfolio_part {
+        padding-bottom: 40px;
+    }
+
+    #pfolio_part .pfolio_top h2 {
+        font-size: 31px;
+        line-height: 31px;
+    }
+
+    #pfolio_part ul li button {
+        margin: 8px 25px;
+    }
+
+    /* ======portfolio part end ===== */
+
+    /* =====footer part start ==== */
+    #footer_part {
+        padding: 65px 0;
+    }
+
+    #footer_part .footer_left {
+        margin-bottom: 50px;
+    }
+
+    /* =====footer part end ==== */
+    /* =========ending part start ======= */
+    #ending_part .back_to_top a {
+        top: -27px;
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+
+    /* =========ending part end ======= */
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* ========menu part start ======== */
+    #main_menu .toggler_icon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 20px;
+        color: white;
+    }
+
+    #main_menu ul li a {
+        padding: 15px 17px;
+    }
+
+    #main_menu ul li {
+        margin-left: 50%;
+        background: black;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    /* ========menu part end ======== */
+
+    /* ======banner part start ====== */
+    #banner_part {
+        margin-bottom: 0;
+    }
+
+    #banner_part .main h2 {
+        font-size: 40px;
+        margin-bottom: 5px;
+    }
+
+    /* ======banner part end ====== */
+
+    /* =======about part start ====== */
+    #about_part {
+        padding: 89px 0 20px;
+    }
+
+    #about_part .about_top h2 {
+        font-size: 29px;
+        margin-bottom: 35px;
+    }
+
+    #about_part .social-link {
+        margin-bottom: 60px;
+    }
+
+    /* =======about part end ====== */
+
+    /* ======service part start ======= */
+    #service_part {
+        padding-bottom: 100px;
+    }
+
+    #service_part .item {
+        padding: 10px;
+        margin: 20px 0;
+    }
+
+    /* ======service part end ======= */
+
+    /* ======portfolio part start ===== */
+    #pfolio_part {
+        padding-bottom: 40px;
+    }
+
+    #pfolio_part .pfolio_top h2 {
+        font-size: 28px;
+        line-height: 33px;
+    }
+
+    #pfolio_part ul li button {
+        margin: 8px 25px;
+    }
+
+    /* ======portfolio part end ===== */
+
+    /* =====footer part start ==== */
+    #footer_part {
+        padding: 65px 0;
+    }
+
+    #footer_part .footer_left {
+        margin-bottom: 50px;
+    }
+
+    /* =====footer part end ==== */
+    /* =========ending part start ======= */
+    #ending_part .back_to_top a {
+        top: -27px;
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+
+    /* =========ending part end ======= */
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* ========menu part start ======== */
+    #main_menu .toggler_icon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 20px;
+        color: white;
+    }
+
+    #main_menu ul li a {
+        padding: 10px 17px;
+    }
+
+    #main_menu ul li {
+        margin-left: 50%;
+        background: black;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    /* ========menu part end ======== */
+
+    /* ======banner part start ====== */
+    #banner_part {
+        margin-bottom: 0;
+    }
+
+    #banner_part .main h2 {
+        font-size: 36px;
+        margin-bottom: 5px;
+    }
+
+    /* ======banner part end ====== */
+
+    /* =======about part start ====== */
+    #about_part {
+        padding: 53px 0 100px;
+    }
+
+    #about_part .about_top h2 {
+        font-size: 26px;
+        margin-bottom: 30px;
+    }
+
+    #about_part .social-link {
+        margin-bottom: 60px;
+    }
+
+    #about_part .img::before {
+        display: none;
+    }
+
+    /* =======about part end ====== */
+
+    /* ======service part start ======= */
+    #service_part {
+        padding-bottom: 100px;
+    }
+
+    #service_part .item {
+        padding: 10px;
+        margin: 20px 0;
+    }
+
+    /* ======service part end ======= */
+
+    /* ======portfolio part start ===== */
+    #pfolio_part {
+        padding-bottom: 40px;
+    }
+
+    #pfolio_part .pfolio_top h2 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    #pfolio_part ul li button {
+        margin: 8px 25px;
+    }
+
+    /* ======portfolio part end ===== */
+
+    /* =====footer part start ==== */
+    #footer_part {
+        padding: 65px 0;
+    }
+
+    #footer_part .footer_left {
+        margin-bottom: 50px;
+    }
+
+    /* =====footer part end ==== */
+    /* =========ending part start ======= */
+    #ending_part .back_to_top a {
+        top: -27px;
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+
+    /* =========ending part end ======= */
+}
+
+@media (max-width: 575.98px) {
+
+    /* ========menu part start ======== */
+    #main_menu .toggler_icon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 20px;
+        color: white;
+    }
+
+    #main_menu ul li a {
+        padding: 10px 17px;
+    }
+
+    #main_menu ul li {
+        margin-left: 50%;
+        background: black;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    /* ========menu part end ======== */
+
+    /* ======banner part start ====== */
+    #banner_part {
+        margin-bottom: 0;
+    }
+
+    #banner_part .main h2 {
+        font-size: 36px;
+        margin-bottom: 5px;
+    }
+
+    /* ======banner part end ====== */
+
+    /* =======about part start ====== */
+    #about_part {
+        padding: 53px 0 100px;
+    }
+
+    #about_part .about_top h2 {
+        font-size: 26px;
+        margin-bottom: 30px;
+    }
+
+    #about_part .social-link {
+        margin-bottom: 60px;
+    }
+
+    #about_part .img::before {
+        display: none;
+    }
+
+    /* =======about part end ====== */
+
+    /* ======service part start ======= */
+    #service_part {
+        padding-bottom: 100px;
+    }
+
+    #service_part .item {
+        padding: 10px;
+        margin: 20px 0;
+    }
+
+    /* ======service part end ======= */
+
+    /* ======portfolio part start ===== */
+    #pfolio_part {
+        padding-bottom: 40px;
+    }
+
+    #pfolio_part .pfolio_top h2 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    #pfolio_part ul li button {
+        margin: 8px 25px;
+    }
+
+    /* ======portfolio part end ===== */
+
+    /* =====footer part start ==== */
+    #footer_part {
+        padding: 65px 0;
+    }
+
+    #footer_part .footer_left {
+        margin-bottom: 50px;
+    }
+
+    /* =====footer part end ==== */
+    /* =========ending part start ======= */
+    #ending_part .back_to_top a {
+        top: -27px;
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+
+    /* =========ending part end ======= */
+}
